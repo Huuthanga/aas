@@ -1,0 +1,7 @@
+import sympy 
+x= sympy.symbols('x')
+# print(sympy.limit((x+1)/(x+2),x,00))
+# print(sympy.limit((x*x-9)/(sympy.sqrt(x*x+7)-4),x,3))
+# print(sympy.limit((2-x)**(x-2),x,2))
+# print(sympy.limit((sympy.log(1-2*x*sympy.sin(x)**2))/(sympy.sin(x)**2*sympy.tan(x)),x,0))
+# print(sympy.limit(((2*x)/(x+3))**(2*x/(x-1)),x,00))
